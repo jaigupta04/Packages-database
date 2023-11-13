@@ -8,3 +8,5 @@
 |Buefy|UI library for vuejs|FE|[Link](https://buefy.org/)|
 |Form Validation|form validation|FE|[Link](https://www.npmjs.com/package/vee-validate)|
 |Retool|develop effective software|FE|[Link](https://retool.com/)|
+|Appsmith|build custom software on top of their data|FE|[Link](https://www.appsmith.com/)|
+|Streamlit|build and share data apps, works on python|FE|[Link](https://streamlit.io/)|
